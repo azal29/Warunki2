@@ -1,0 +1,15 @@
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki3\obj\Debug\net6.0\warunki3.csproj.AssemblyReference.cache
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki3\obj\Debug\net6.0\warunki3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki3\obj\Debug\net6.0\warunki3.AssemblyInfoInputs.cache
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki3\obj\Debug\net6.0\warunki3.AssemblyInfo.cs
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki3\obj\Debug\net6.0\warunki3.csproj.CoreCompileInputs.cache
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki3\bin\Debug\net6.0\warunki3.exe
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki3\bin\Debug\net6.0\warunki3.deps.json
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki3\bin\Debug\net6.0\warunki3.runtimeconfig.json
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki3\bin\Debug\net6.0\warunki3.dll
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki3\bin\Debug\net6.0\warunki3.pdb
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki3\obj\Debug\net6.0\warunki3.dll
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki3\obj\Debug\net6.0\refint\warunki3.dll
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki3\obj\Debug\net6.0\warunki3.pdb
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki3\obj\Debug\net6.0\warunki3.genruntimeconfig.cache
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki3\obj\Debug\net6.0\ref\warunki3.dll

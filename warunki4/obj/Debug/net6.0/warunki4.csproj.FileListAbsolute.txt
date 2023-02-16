@@ -1,0 +1,15 @@
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki4\bin\Debug\net6.0\warunki4.exe
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki4\bin\Debug\net6.0\warunki4.deps.json
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki4\bin\Debug\net6.0\warunki4.runtimeconfig.json
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki4\bin\Debug\net6.0\warunki4.dll
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki4\bin\Debug\net6.0\warunki4.pdb
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki4\obj\Debug\net6.0\warunki4.csproj.AssemblyReference.cache
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki4\obj\Debug\net6.0\warunki4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki4\obj\Debug\net6.0\warunki4.AssemblyInfoInputs.cache
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki4\obj\Debug\net6.0\warunki4.AssemblyInfo.cs
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki4\obj\Debug\net6.0\warunki4.csproj.CoreCompileInputs.cache
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki4\obj\Debug\net6.0\warunki4.dll
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki4\obj\Debug\net6.0\refint\warunki4.dll
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki4\obj\Debug\net6.0\warunki4.pdb
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki4\obj\Debug\net6.0\warunki4.genruntimeconfig.cache
+C:\Users\Aneta\Desktop\praca\.net\warunki\warunki4\obj\Debug\net6.0\ref\warunki4.dll
